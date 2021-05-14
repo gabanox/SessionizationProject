@@ -11,7 +11,7 @@ Esta plantilla de AWS CloudFormation está diseñada para implementarse solo en 
 
 1. Para comenzar, inicie sesión en la [Consola de administración de AWS](https://aws.amazon.com/es/console/) y luego abra la plantilla de ventana escalonada.
 
-![GitHub](CloudSprint/CloudSprint1.jpg)
+![GitHub](Cloud2/CloudSprint1.jpg)
 
 2. En la consola de **AWS CloudFormation**, elija **Siguiente** y complete los parámetros de AWS CloudFormation:
     - **Nombre de pila** : El nombre de la pila ( el blog-sesionización o sesiones-blog )
