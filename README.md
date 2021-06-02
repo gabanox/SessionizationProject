@@ -9,7 +9,7 @@ Esta plantilla de AWS CloudFormation está diseñada para implementarse solo en 
 
 #### II: Creando la pila
 
-1. Para comenzar, inicie sesión en la [Consola de administración de AWS](https://aws.amazon.com/es/console/) y luego abra la plantilla de ventana escalonada.
+1. Para comenzar, inicie sesión en la [Consola de administración de AWS](https://console.aws.amazon.com/cloudformation/home?region=us-east-1#/stacks/create/template?stackName=blog-sessionization&templateURL=https://s3.amazonaws.com/aws-bigdata-blog/artifacts/realtime-clickstream-sessions-analytics-kinesis-glue-athena/streaming-stagger-window.template) y luego abra la plantilla de ventana escalonada.
 
 ![GitHub](Cloud2/CloudSprint1.jpg)
 
